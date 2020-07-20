@@ -68,7 +68,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "",
-    img: "img/produt-7.jpg",
+    img: "img/plant.jpg",
     price: 20,
     company: "",
     info: "",
@@ -79,7 +79,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "",
-    img: "img/produt-8.jpg",
+    img: "img/plant7.jpeg",
     price: 30,
     company: "dew point",
     info: "",
