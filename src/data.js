@@ -25,7 +25,7 @@ export const storeProducts = [
     id: 3,
     title: "",
     img: "img/plant3.jpeg",
-    price: 8,
+    price: 18,
     company: "dew point",
     info: "",
     inCart: false,
@@ -68,7 +68,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "",
-    img: "img/plant.jpg",
+    img: "img/plant7.jpeg",
     price: 20,
     company: "",
     info: "",
@@ -79,7 +79,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "",
-    img: "img/plant7.jpeg",
+    img: "img/plant8.jpeg",
     price: 30,
     company: "dew point",
     info: "",
@@ -91,7 +91,7 @@ export const storeProducts = [
   {
     id: 9,
     title: "",
-    img: "img/produt-9.jpg",
+    img: "img/plant9.jpeg",
     price: 15,
     company: "dew point",
     info: "",
@@ -102,7 +102,7 @@ export const storeProducts = [
   {
     id: 10,
     title: "",
-    img: "img/produt-14.jpg",
+    img: "img/plant10.jpeg",
     price: 30,
     company: "",
     info: "",
@@ -113,8 +113,8 @@ export const storeProducts = [
   {
     id: 11,
     title: "",
-    img: "img/produt-11.jpg",
-    price: 5.99,
+    img: "img/plant11.jpeg",
+    price: 15.99,
     company: "",
     info: "",
     inCart: false,
@@ -125,7 +125,7 @@ export const storeProducts = [
   {
     id: 12,
     title: "",
-    img: "img/produt-15.jpg",
+    img: "img/plant12.jpeg",
     price: 20,
     company: "dew point",
     info: "",
