@@ -1,0 +1,3 @@
+[submodule "src/-plantsell"]
+	path = src/-plantsell
+	url = https://github.com/0805Ewunet/-plantsell
