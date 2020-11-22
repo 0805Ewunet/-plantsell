@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/0805Ewunet/-plantsell.git/static/css/main.e6f9fca1.chunk.css",
+    "main.js": "/0805Ewunet/-plantsell.git/static/js/main.4a2629d1.chunk.js",
+    "main.js.map": "/0805Ewunet/-plantsell.git/static/js/main.4a2629d1.chunk.js.map",
+    "runtime-main.js": "/0805Ewunet/-plantsell.git/static/js/runtime-main.7175e5bf.js",
+    "runtime-main.js.map": "/0805Ewunet/-plantsell.git/static/js/runtime-main.7175e5bf.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/0805Ewunet/-plantsell.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2663192f.chunk.js": "/0805Ewunet/-plantsell.git/static/js/2.2663192f.chunk.js",
+    "static/js/2.2663192f.chunk.js.map": "/0805Ewunet/-plantsell.git/static/js/2.2663192f.chunk.js.map",
+    "index.html": "/0805Ewunet/-plantsell.git/index.html",
+    "precache-manifest.115301c197b4ccc80f6d40da707a76b0.js": "/0805Ewunet/-plantsell.git/precache-manifest.115301c197b4ccc80f6d40da707a76b0.js",
+    "service-worker.js": "/0805Ewunet/-plantsell.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/0805Ewunet/-plantsell.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e6f9fca1.chunk.css.map": "/0805Ewunet/-plantsell.git/static/css/main.e6f9fca1.chunk.css.map",
+    "static/js/2.2663192f.chunk.js.LICENSE.txt": "/0805Ewunet/-plantsell.git/static/js/2.2663192f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/0805Ewunet/-plantsell.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7175e5bf.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2663192f.chunk.js",
+    "static/css/main.e6f9fca1.chunk.css",
+    "static/js/main.4a2629d1.chunk.js"
+  ]
+}
