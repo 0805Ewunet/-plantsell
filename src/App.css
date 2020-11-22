@@ -1,5 +1,5 @@
 :root {
-  --mainBlue: #b30000;
+  --mainBlue: #394867;
   --lightBlue: #009ffd;
   --mainWhite: #f3f3f3;
   --mainDark: #232528;
@@ -39,6 +39,6 @@ body {
 }
 .cart-icon {
   cursor: pointer;
-  font-size: 1.2rem;
+  font-size: 0.1rem;
   color: var(--mainYellow);
 }
